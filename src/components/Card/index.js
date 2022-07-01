@@ -1,0 +1,1 @@
+export { FILMS } from './Card'

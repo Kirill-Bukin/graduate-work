@@ -1,0 +1,8 @@
+.order-page__total-price{
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid rgba(255, 255, 255, 0.4);
+    padding-top: 10px;
+    font-weight: bold;
+    font-size: 24px;
+}
